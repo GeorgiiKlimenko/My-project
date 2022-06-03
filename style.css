@@ -7,12 +7,12 @@
     width: 500px
 
 }*/
-#q{
+.q{
     width: 800px;
     height: 20px;
     border: 3px solid;
 }
-#search{
+.button1{
     height: 30px;
     font-size: medium;
     }
