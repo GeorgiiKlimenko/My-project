@@ -1,8 +1,29 @@
-form { text-align: center;
-    margin: 1%;
+/*form {
+    text-align: center;
+    border: 3px solid red;
+    /*padding: left 10px;*/
+    /*margin: 1%;
     padding: 1%;
+    width: 500px
 
+}*/
+#q{
+    width: 800px;
+    height: 20px;
+    border: 3px solid;
 }
+#search{
+    height: 30px;
+    font-size: medium;
+    }
+.f1{
+    text-align: center;
+    padding-top: 10%;
+    }
+.f2{
+    padding-left: 40%;
+}
+
 .gimg {
     text-align: center;
 }
